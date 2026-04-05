@@ -53,22 +53,6 @@ LED Blink dengan Serial Monitor untuk source code dapat diakses melalui [LED_SER
 
 https://github.com/user-attachments/assets/18792670-12ba-41f7-9803-f5fed2185dd4
 
-<h2></h2>
-
-<br>
-<div align="center">
-  <a href="https://github.com/uckypradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-github.png" width="3%" alt="Ultralytics GitHub"></a>
-  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
-  <a href="https://www.linkedin.com/uckypradestha/"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="Ultralytics LinkedIn"></a>
-  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
-  <a href="https://twitter.com/uckypradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-twitter.png" width="3%" alt="Ultralytics Twitter"></a>
-  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
-  <a href="https://www.youtube.com/@ckypradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-youtube.png" width="3%" alt="Ultralytics YouTube"></a>
-  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
-  <a href="https://www.tiktok.com/@pradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-tiktok.png" width="3%" alt="Ultralytics TikTok"></a>
-  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
-</div>
-
 <h2>Menyalakan dan Menghidupkan LED Melalui Serial Monitor</h2>
 
 Selain menampilkan status LED dengan `Serial.print()`, Serial Monitor juga dapat digunakan sebagai "tombol" digital untuk menyalakan LED. Dengan latihan ini, mahasiswa diharapkan mampu mengirimkan perintah sederhana dari Serial Monitor untuk menyalakan dan mematikan LED, serta memahami bagaimana Arduino membaca dan merespons data yang diterima secara real-time.
